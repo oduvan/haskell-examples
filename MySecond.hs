@@ -1,0 +1,1 @@
+safeSecond :: [a] -> Maybe a
